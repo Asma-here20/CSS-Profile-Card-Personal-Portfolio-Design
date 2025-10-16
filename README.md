@@ -1,7 +1,7 @@
 # 💼 Personal Profile Card
 
 A simple and elegant **Profile Card Website** built using **HTML and CSS**.  
-This project showcases a personal profile with an image, name, short description, skills section, and footer — designed with a neat, centered layout and modern pastel colors.
+It displays a circular profile picture, name, short description, skill tags, and a footer — all neatly designed inside a stylish card.
 
 ---
 
@@ -21,9 +21,9 @@ This project showcases a personal profile with an image, name, short description
 ---
 
 ## 🧩 How to View
-1. Clone this repository or download the ZIP.  
-2. Open the folder and double-click the `index.html` file.  
-3. The profile card will open in your browser.
+1.Download or clone this repository.
+2.Open the file profile.html in your browser.
+3.Enjoy your beautiful profile card! 🌷
 
 ---
 
